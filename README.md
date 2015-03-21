@@ -1,3 +1,5 @@
-# Staff-Guidelines
-+The OFFICIAL ExoticMines Staff Guidelines
-+This must be read by all Staff Memebers from ExoticMines.
++GoldPvPStaffDocumentation
++=========================
++This is the GoldPvP staff docs created by Revo.
++This must be read by all staff members.
++
